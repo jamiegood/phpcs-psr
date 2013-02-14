@@ -18,13 +18,15 @@
     <rule ref="Squiz.Scope.MemberVarScope"/>
     <rule ref="Squiz.Scope.MethodScope"/>
     
+	<!--
     <rule ref="Generic.Files.LineLength">
         <properties>
             <property name="lineLimit" value="80"/>
             <property name="absoluteLineLimit" value="120"/>
         </properties>
     </rule>
-    
+    -->
+	
     <rule ref="Generic.Files.LineEndings">
         <properties>
             <property name="eolChar" value="\n"/>
